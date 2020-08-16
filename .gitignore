@@ -1,0 +1,4 @@
+src/Weather/obj/*
+.vscode/*
+.vs/*
+src/Weather/bin/*
